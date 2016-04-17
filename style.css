@@ -10,6 +10,10 @@ body {
     font-size: 13px;
 }
 
+.icon {
+    width: .9%;
+}
+
 #container{
     width: 580px;
     margin: 140px auto 0;
